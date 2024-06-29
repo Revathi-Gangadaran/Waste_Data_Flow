@@ -5,7 +5,7 @@ This project focuses on analysing the Waste data flow of 2015 - 2016 in United K
 ## Contents:
 - `Q100_data_England_2015_2016`: The dataset is in csv format.
 - `README.md`: Documentation file providing an overview of the project and analysis steps.
-- `Query1`: SQL Query used for data cleaning, transformation and finding insights
+- `Query.SQL`: SQL Query used for data cleaning, transformation and finding insights
 
 ## Prerequisite:
 - Dataset - Wate Data Flow.[Download here](http://data.defra.gov.uk/Waste/Q100_data_England_2015_2016.csv) 
@@ -170,7 +170,7 @@ The Output would be like:
 To replicate the analysis:
 1. Download the dataset from the link mentioned above.
 2. Load that dataset into the database in SSMS.
-3. Utilise the Query1.txt to find the insights.
+3. Utilise the Query.SQL to find the insights.
 
 
 ### Contact:

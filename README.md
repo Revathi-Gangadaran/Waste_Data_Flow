@@ -9,7 +9,7 @@ This project focuses on analysing the Waste data flow of 2015 - 2016 in United K
 
 ## Prerequisite:
 - Dataset - Wate Data Flow.[Download here](http://data.defra.gov.uk/Waste/Q100_data_England_2015_2016.csv) 
-- SSMS (SQL Server Managment Studio)
+- SSMS (SQL Server Managment Studio). [Download here](https://learn.microsoft.com/en-us/sql/ssms/download-sql-server-management-studio-ssms?view=sql-server-ver16)
     
 ## Dataset description:
 - The dataset was downloaded from the WasteDataFlow - Local Authority waste management of United Kingdom. [Download here](http://data.defra.gov.uk/Waste/Q100_data_England_2015_2016.csv) 

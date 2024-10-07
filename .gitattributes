@@ -1,0 +1,12 @@
+# Specify language types for the files
+*.py linguist-language=Python
+*.js linguist-language=JavaScript
+*.html linguist-language=HTML
+*.css linguist-language=CSS
+*.sql linguist-language=SQL
+*.pbix linguist-language=PowerBI
+
+
+# Ignore specific file types for language statistics
+*.md linguist-detectable=false
+*.txt linguist-detectable=false
